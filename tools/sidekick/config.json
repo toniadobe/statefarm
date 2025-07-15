@@ -1,0 +1,5 @@
+{
+  "project": "Statefarm",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/{toniadobe}/{statefarm}{tools}"
+}
